@@ -7,7 +7,7 @@ export default function BackgroundVideo({
   overlayOpacity = "bg-black/45"
 }) {
   return (
-    <div className="absolute inset-0 w-full min-h-[10vh]">
+    <div className="absolute inset-0 w-full h-[1085px]">
       
       {/* Video */}
       <video

@@ -2,7 +2,7 @@ import React from "react";
 
 export default function HeroSection() {
   return (
-    <div className="relative z-10 flex flex-col items-center justify-center min-h-full text-white text-center">
+    <div className="relative container mx-auto z-10 flex flex-col items-center justify-center min-h-full text-white text-center">
       
       <h1 className="text-7xl mt-56 font-extrabold leading-tight">
         Shaping future

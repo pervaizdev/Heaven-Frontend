@@ -21,6 +21,7 @@ body {
   background-color: #eed498;
 }
 
+
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #ffffff;
