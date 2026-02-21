@@ -13,8 +13,8 @@ export const projectMedia = {
   videos: [
     {
       id: "v1",
-      src: "/media/video-1.mp4",
-      poster: "/media/video-1.jpg",
+      src: "/videos/home.mp4",
+      poster: "/videos/home.jpg",
       title: "Walkthrough",
     },
   ],
